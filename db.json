@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 Pro max (black Titanium, 1TB)",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009275111",
+      "description": "512 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A17 Pro Chip, 6 Core Processor ."
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 15 Pro max (White Titanium, 512 GB)",
+      "price": 130000,
+      "quantity": 1,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009275111",
+      "description": "512 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A17 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 15 Pro (White , 512 GB)",
+      "price": 125000,
+      "quantity": 1,
+      "image": "https://www.makotekcomputers.com/cdn/shop/files/APPLE-IPHONE-15-PRO-128GB-WHITE-TITANIUM-SMARTPHONE.jpg?v=1699487944",
+      "description": "512 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A17 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 15 Pro (White , 256 GB)",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://m-cdn.phonearena.com/images/articles/405803-image/iphone-15-pro-finish-black-titanium.jpg",
+      "description": "512 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A17 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 15 pro (White , 128 GB)",
+      "price": 105000,
+      "quantity": 1,
+      "image": "https://m-cdn.phonearena.com/images/articles/405803-image/iphone-15-pro-finish-black-titanium.jpg",
+      "description": "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A17 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 6,
+      "name": "Apple iPhone 14 (white , 128 GB)",
+      "price": 60000,
+      "quantity": 1,
+      "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/iphone-14-blue-1.jpg",
+      "description": "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display  12MP + 12MP | 12MP Front Camera A15 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 7,
+      "name": "Apple iPhone 14 (yellow , 128 GB)",
+      "price": 62000,
+      "quantity": 1,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-yellow?wid=2560&hei=1440&fmt=jpeg&qlt=95&.v=1676505836714",
+      "description": "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display  12MP + 12MP | 12MP Front Camera A15 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 14 pro (black , 128 GB)",
+      "price":  85000,
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/R.18f52538e7bf960dbbb8d89481c05d2d?rik=XyzCpOTMwPSiKQ&riu=http%3a%2f%2fwww.ismartbolivia.com%2fwp-content%2fuploads%2f2022%2f09%2fiphone-14-pro-finish-select-202209-6-1inch-spaceblack-800x450.jpeg&ehk=ky57jHtZjv4BDfy5Tfnp9PpbrdQudTMqmvorXOK7Iq4%3d&risl=&pid=ImgRaw&r=0",
+      "description": "512 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A16 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 14 pro (black , 256 GB)",
+      "price": 92000,
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/R.18f52538e7bf960dbbb8d89481c05d2d?rik=XyzCpOTMwPSiKQ&riu=http%3a%2f%2fwww.ismartbolivia.com%2fwp-content%2fuploads%2f2022%2f09%2fiphone-14-pro-finish-select-202209-6-1inch-spaceblack-800x450.jpeg&ehk=ky57jHtZjv4BDfy5Tfnp9PpbrdQudTMqmvorXOK7Iq4%3d&risl=&pid=ImgRaw&r=0",
+      "description": "256 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A16 Pro Chip, 6 Core Processor Processor."
+    },
+    {
+      "id": 10,
+      "name": "Apple iPhone 14 pro (purple , 256 GB)",
+      "price":  95000,
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/OIP.8qHQchco3eDI5uzHmt0MMAHaEK?w=1800&h=1013&rs=1&pid=ImgDetMain",
+      "description": "256 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP + 12MP | 12MP Front Camera A16 Pro Chip, 6 Core Processor Processor."
+    }
+  ],
+  "cartItems": [
+    { "id": 1, "productId": 1, "quantity": 1 },
+    { "id": 2, "productId": 2, "quantity": 1 },
+    { "id": 3, "productId": 3, "quantity": 1 },
+    { "id": 4, "productId": 4, "quantity": 1 },
+    { "id": 5, "productId": 5, "quantity": 1 },
+    { "id": 6, "productId": 6, "quantity": 1 },
+    { "id": 7, "productId": 7, "quantity": 1 },
+    { "id": 8, "productId": 8, "quantity": 1 },
+    { "id": 9, "productId": 9, "quantity": 1 },
+    { "id": 10, "productId": 10, "quantity": 1 }
+  ]
+}
