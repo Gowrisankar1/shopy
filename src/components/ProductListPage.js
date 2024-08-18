@@ -22,7 +22,7 @@ const ProductListPage = ({ setCartItems }) => {
 
   return (
     <div
-      className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 p-8" // Grid layout for product cards
+      className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 p-8 mt-20" // Grid layout for product cards
     >
       {products.map((product, index) => (
         <ProductCard
