@@ -20,23 +20,23 @@ const CartItem = ({ item, updateCartQuantity, setCartItems }) => {
   };
 
   return (
-    <div className="flex justify-between items-center py-4 border-b">
-      <div className="flex items-center">
+    <div className="flex flex-col sm:flex-row justify-between items-center py-4 border-b">
+      <div className="flex items-center w-full sm:w-auto">
         <img
           src={item.image}
           alt={item.name}
-          className="w-16 h-16 object-cover rounded"
+          className="w-24 h-24 sm:w-16 sm:h-16 object-cover rounded"
         />
-        <div className="ml-4">
-          <h4 className="text-lg">{item.name}</h4>
-          <p className="text-gray-600">₹{item.price}</p>
+        <div className="ml-4 flex flex-col">
+          <h4 className="text-lg sm:text-base font-semibold">{item.name}</h4>
+          <p className="text-gray-600 text-sm sm:text-base">₹{item.price}</p>
         </div>
       </div>
-      <div className="flex items-center">
+      <div className="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
         <select
           value={item.quantity}
           onChange={handleQuantityChange}
-          className="border border-gray-300 rounded p-1 mr-4"
+          className="border border-gray-300 rounded p-2 mr-4 mb-2 sm:mb-0"
         >
           {[...Array(10).keys()].map((i) => (
             <option key={i + 1} value={i + 1}>
@@ -45,7 +45,7 @@ const CartItem = ({ item, updateCartQuantity, setCartItems }) => {
           ))}
         </select>
         <button
-          className="bg-red-500 text-white py-1 px-4 rounded hover:bg-red-600 transition"
+          className="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600 transition"
           onClick={() => removeFromCart(item.key)}
         >
           Remove
