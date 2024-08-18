@@ -22,7 +22,6 @@ const ProductListPage = ({ setCartItems }) => {
 
   return (
     <div
-      style={{ backgroundImage: `url('./public/images/background.jpg')` }} // Background image for the page
       className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 p-8" // Grid layout for product cards
     >
       {products.map((product, index) => (
